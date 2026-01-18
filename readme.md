@@ -92,4 +92,4 @@ options:
   --no-history          Disable storing conversation history (use only system prompt and current user message)
 ```
 ## Results
-A summary of the results is provided in [results_summary]().
+A summary of the results is provided in [results_summary](/Running%20An%20LLM.md). For pdf format see [Running An LLM.pdf](/Running%20An%20LLM.pdf)
